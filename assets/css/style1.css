@@ -1,0 +1,66 @@
+h2.titre
+{
+  text-align:center;
+  background-color: #EFEFEF;
+}
+
+.liste
+{
+  margin-left:20px;
+  display:inline;
+}
+
+.liste a
+{
+  border-bottom: dotted 2px #000000;
+  text-decoration:none;
+}
+
+ul
+{
+  text-align:center;  
+}
+
+article img
+{
+  float: right;
+}
+
+section
+{
+  float:left;
+}
+
+section article
+{
+  float : right;
+  
+}
+
+.informaticien h2
+{
+  text-align: center;
+}
+
+aside em
+{
+  font-weight: bold;
+}
+
+
+
+footer a
+{ 
+  border-bottom: dotted 2px #000000;
+  text-decoration:none;
+}
+
+footer p
+{
+  display: inline;
+}
+
+.droite
+{
+   margin-left: 1500px;
+}
